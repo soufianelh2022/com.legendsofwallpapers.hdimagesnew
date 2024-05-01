@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category_name_1",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "legends of wallpaper hd 2024 1",
+      "preview": "https://avatars.mds.yandex.net/i?id=c68b90ac29b88bc49d477ba75b43d62940127310-11043615-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=9aeadef4176eda3349dd6694538afbee19d7d3c9-4777142-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=6b654acec0ede81a32caa5fd3eaeda9774f792f4-12851522-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=f9b54fc2e5efa03aa0637096162f94081e51bf45-12941940-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=1da6176d3f4e3bdb759f8bf334667aab628d01b3-9181148-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=5fa416763812276f1d9c93a8e8491a69c20f3f8e-12423254-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=cb322ebaf83f2b81adf9e676901327244c755c8f-10993330-images-thumbs&n=13"
         },
         {
           "id": 6,
           "category": "category_name_1",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "path": "https://avatars.mds.yandex.net/i?id=b951106d930f1fb835adc001b0a84f79a0a232e5-11424584-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
+          "category": "legends of wallpaper hd 2024 1",
+          "path": "https://avatars.mds.yandex.net/i?id=b9d045f136a3f17c63099fa9ec86c639e2eba0b0-12795182-images-thumbs&n=13"
+        }
+      ]
+    },
+    {
+      "name": "legends of wallpaper hd 2024 2",
+      "preview": "https://avatars.mds.yandex.net/i?id=6d5941dd61f3fb9a06ad8354833971ad9ce4a576-12530521-images-thumbs&n=13",
+      "wallpapers": [
+        {
+          "id": 0,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=fd8c5df35f69cb06e1a0783141d5887d1ad02895-9203684-images-thumbs&n=13"
+        },
+        {
+          "id": 1,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=9a8bf70175570a30ac65bf9fa1b0206cd78be12d-9069268-images-thumbs&n=13"
+        },
+        {
+          "id": 2,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=127cebe2a2ea0076a8fb2df17007b2d567bf2435-8485874-images-thumbs&n=13"
+        },
+        {
+          "id": 3,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=720cd3e6f0e0674a14f4ed341bb29b72b04ef992-4310964-images-thumbs&n=13"
+        },
+        {
+          "id": 4,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=df43462200fed1af0ce48db5f5b4b33e2b19c746-12481490-images-thumbs&n=13"
+        },
+        {
+          "id": 5,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=f9e2c01c3e70abe9828a5c401281b87ec9c42273-11548596-images-thumbs&n=13"
+        },
+        {
+          "id": 6,
+          "category": "legends of wallpaper hd 2024 2",
+          "path": "https://avatars.mds.yandex.net/i?id=d9cfb60078a6f4acab3fa8362bd9e53f677a2b6d-10455853-images-thumbs&n=13"
+        },
+        {
+          "id": 7,
+          "category": "legends of wallpaper hd 2024 2",
           "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "legends of wallpaper hd 2024 3",
+      "preview": "https://avatars.mds.yandex.net/i?id=3e0994d84295c86d74de8d5109071cfa1d3d5f25-12438744-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=f32551fc1e05a5ad86335c80edea724302a87881-9682103-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=55d52b5009f1f0fac2dd8582ea32c167d61513d3-11431503-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=55d52b5009f1f0fac2dd8582ea32c167d61513d3-11431503-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=4f620204ccab148b5fc279ca4603ba2c243ec47f-12607459-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=c4dcbac2df0aa0d70533dc827c5427fff4940903-10703102-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 20243",
+          "path": "https://avatars.mds.yandex.net/i?id=8b891becd83c905f93126dbeb2ae1ae65ae38cf6-12900328-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=fa41da6488a441832abddcb0327c39a7d4094b09-12607459-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        }
-      ]
-    },
-    {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
-      "wallpapers": [
-        {
-          "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
-        },
-        {
-          "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "legends of wallpaper hd 2024 3",
+          "path": "https://avatars.mds.yandex.net/i?id=f165eff7434ff07d4528e5d495661a8305fe300a-8192006-images-thumbs&n=13"
         }
       ]
     }
